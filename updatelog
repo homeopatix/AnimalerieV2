@@ -1,3 +1,11 @@
+UPDATE V1.05
+(French)
+Correction d'un bug qui empêchais la sauvegarde correctes des données du plugin
+(English)
+Fixed a bug that prevented plugin data from being saved correctly
+(Deutsche)
+Es wurde ein Fehler behoben, der verhinderte, dass Plugin-Daten korrekt gespeichert wurden
+
 UPDATE V1.04
 (French)
 Correction de texte dans la langue française
