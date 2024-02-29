@@ -40,13 +40,13 @@ T[ "PluginDefault" ] = "Standard-Tierfreunde";
 -- Help text --
 ------------------------------------------------------------------------------------------
 T[ "PluginHelp1" ] = "\n *** AnimalerieV2 Befehle ***\n";
-T[ "PluginHelp2" ] = "/show - Zeigt das Fenster an.\n";
-T[ "PluginHelp3" ] = "/hide - Blendet das Fenster aus.\n";
-T[ "PluginHelp4" ] = "/default - F\195\188gt die Standardtiere ein.\n";
-T[ "PluginHelp5" ] = "/lock - Sperrt/entsperrt die Verkn\195\188pfungen.\n";
-T[ "PluginHelp6" ] = "/alt - Alt-Taste gedr\195\188ckt halten, um das Symbol zu verschieben.\n";
-T[ "PluginHelp7" ] = "/toggle - Fenster anzeigen/ausblenden.\n";
-T[ "PluginHelp8" ] = "/clear - L\195\182scht alle Verkn\195\188pfungen.\n\n";
+T[ "PluginHelp2" ] = "/anv2 show - Zeigt das Fenster an.\n";
+T[ "PluginHelp3" ] = "/anv2 hide - Blendet das Fenster aus.\n";
+T[ "PluginHelp4" ] = "/anv2 default - F\195\188gt die Standardtiere ein.\n";
+T[ "PluginHelp5" ] = "/anv2 lock - Sperrt/entsperrt die Verkn\195\188pfungen.\n";
+T[ "PluginHelp6" ] = "/anv2 alt - Alt-Taste gedr\195\188ckt halten, um das Symbol zu verschieben.\n";
+T[ "PluginHelp7" ] = "/anv2 toggle - Fenster anzeigen/ausblenden.\n";
+T[ "PluginHelp8" ] = "/anv2 clear - L\195\182scht alle Verkn\195\188pfungen.\n\n";
 T[ "PluginHelp9" ] = "Du kannst deine Tierfreunde per Drag & Drop in die erste Zeile und das Tierfutter in die zweite Zeile ziehen.\nWenn du mit dem Mauszeiger \195\188ber eine Verkn\195\188pfung gehst, kannst du sie durch Drehen des Mausrades l\195\182schen.\n\n";
 ------------------------------------------------------------------------------------------
 -- Options Window text --
