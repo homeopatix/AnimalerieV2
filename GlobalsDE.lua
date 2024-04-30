@@ -9,45 +9,45 @@ _G.T = {};
 ------------------------------------------------------------------------------------------
 T[ "PluginName" ] = "AnimalerieV2";
 T[ "Loaded" ] = "Geladen";
-T[ "Unactivated" ] = "Entladen";
+T[ "Unactivated" ] = "Beendet";
 T[ "PluginText" ] = "Von Homeopatix";
 T[ "PluginEscEnable" ] = "Escape-Taste aktiviert";
 T[ "PluginEscDesable" ] = "Escape-Taste deaktiviert";
 T[ "PluginAltEnable" ] = "Alt-Taste aktiviert";
 T[ "PluginAltDesable" ] = "Alt-Taste deaktiviert";
 T[ "PluginClear" ] = "Schlie\195\159e die Tierhandlung ab";
-T[ "PluginClearAll" ] = "Alle Eintr\195\164ge l\195\182schen";
-T[ "PluginToggleOn" ] = "Fenster umschalten EIN";
-T[ "PluginToggleOff" ] = "Fenster umschalten AUS";
-T[ "PluginEscIconOn" ] = "Symbol anzeigen";
-T[ "PluginEscIconOff" ] = "Blendet das Symbol aus";
-T[ "PluginLocked" ] = "Symbole gesperrt";
-T[ "PluginUnlocked" ] = "Symbole entsperrt";
+T[ "PluginClearAll" ] = "Alle Verkn\195\188pfungen gel\195\182scht";
+T[ "PluginToggleOn" ] = "Fenster wird angezeigt";
+T[ "PluginToggleOff" ] = "Fenster wird ausgeblendet";
+T[ "PluginEscIconOn" ] = "Symbol wird angezeigt";
+T[ "PluginEscIconOff" ] = "Symbol wird ausgeblendet";
+T[ "PluginLocked" ] = "Verkn\195\188pfungen gesperrt";
+T[ "PluginUnlocked" ] = "Verkn\195\188pfungen entsperrt";
 T[ "Version" ] = Plugins[T[ "PluginName" ]]:GetVersion();
 T[ "PluginDateUpdate" ] = "21.12.2023";
 ------------------------------------------------------------------------------------------
 -- plugin name and title --
 ------------------------------------------------------------------------------------------
-T[ "PluginTextFam" ] = "Ihre Tierhandlung";
-T[ "PluginTextFood" ] = "Ihr Essen";
-T[ "PluginReleaseButton" ] = "Entfessle Vertrautes";
+T[ "PluginTextFam" ] = "Deine Tierfreunde";
+T[ "PluginTextFood" ] = "Tierfutter";
+T[ "PluginReleaseButton" ] = "Begleiter freilassen";
 T[ "PluginReleaseAlias" ] = "/begleiter freilassen";
 ------------------------------------------------------------------------------------------
 -- default text --
 ------------------------------------------------------------------------------------------
-T[ "PluginDefault" ] = "Standard-Zoohandlung";
+T[ "PluginDefault" ] = "Standard-Tierfreunde";
 ------------------------------------------------------------------------------------------
 -- Help text --
 ------------------------------------------------------------------------------------------
-T[ "PluginHelp1" ] = " *** AnimalerieV2 Hilfe ***\n\n";
-T[ "PluginHelp2" ] = "/show Zeig die Tierhandlung\n";
-T[ "PluginHelp3" ] = "/hide Verstecke die Tierhandlung\n";
-T[ "PluginHelp4" ] = "/default F\195\188llt sich mit Basistieren\n";
-T[ "PluginHelp5" ] = "/lock Zum Sperren oder Entsperren der Symbole\n";
-T[ "PluginHelp6" ] = "/alt - Aktiviert oder deaktiviert die Alt-Taste zum Bewegen von Symbolen.\n";
-T[ "PluginHelp7" ] = "/toggle - Fenster ein-oder ausblenden.\n";
-T[ "PluginHelp8" ] = "/clear L\195\182schen Sie alle Hotkeys\n\n";
-T[ "PluginHelp9" ] = "Sie k\195\182nnen Haustiere per Drag-and-Drop in die erste Zeile und Futter in die zweite ziehen\nund mit dem Scrollrad einen Hotkey l\195\182schen Maus\n\n";
+T[ "PluginHelp1" ] = "\n *** AnimalerieV2 Befehle ***\n";
+T[ "PluginHelp2" ] = "/anv2 show - Zeigt das Fenster an.\n";
+T[ "PluginHelp3" ] = "/anv2 hide - Blendet das Fenster aus.\n";
+T[ "PluginHelp4" ] = "/anv2 default - F\195\188gt die Standardtiere ein.\n";
+T[ "PluginHelp5" ] = "/anv2 lock - Sperrt/entsperrt die Verkn\195\188pfungen.\n";
+T[ "PluginHelp6" ] = "/anv2 alt - Alt-Taste gedr\195\188ckt halten, um das Symbol zu verschieben.\n";
+T[ "PluginHelp7" ] = "/anv2 toggle - Fenster anzeigen/ausblenden.\n";
+T[ "PluginHelp8" ] = "/anv2 clear - L\195\182scht alle Verkn\195\188pfungen.\n\n";
+T[ "PluginHelp9" ] = "Du kannst deine Tierfreunde per Drag & Drop in die erste Zeile und das Tierfutter in die zweite Zeile ziehen.\nWenn du mit dem Mauszeiger \195\188ber eine Verkn\195\188pfung gehst, kannst du sie durch Drehen des Mausrades l\195\182schen.\n\n";
 ------------------------------------------------------------------------------------------
 -- Options Window text --
 ------------------------------------------------------------------------------------------
@@ -59,8 +59,8 @@ T[ "Option4" ] = "Adler";
 T[ "Option5" ] = "Tiger";
 T[ "Option6" ] = "W\195\164chter";
 T[ "Option7" ] = "Geist";
-T[ "PluginAleatoireGen" ] = "Setze zuf\195\164llige Haustiere";
-T[ "PluginOptionValidate" ] = "\195\164nderungen \195\188bernehmen";
-T[ "PluginAleatoire" ] = " Verwenden Sie zuf\195\164llige Haustiere";
-T[ "PluginSelected" ] = " Verwenden Sie ausgew\195\164hlte Haustiere";
-T[ "PluginAleatoireExplication" ] = " W\195\164hlen Sie die Haustiere aus, die Sie in die zuf\195\164llige \195\164nderung einbeziehen m\195\182chten. Basistiere sind erforderlich oder w\195\164hlen Sie nur ein Haustier pro Kollon aus und aktivieren Sie das Kontrollk\195\164stchen Ausgew\195\164hlte Haustiere verwenden";
+T[ "PluginAleatoireGen" ] = "Zuf\195\164llige Tierfreunde verwendet";
+T[ "PluginOptionValidate" ] = "Speichern";
+T[ "PluginAleatoire" ] = " Zuf\195\164llige Tierfreunde verwenden";
+T[ "PluginSelected" ] = " Ausgew\195\164hlte Tierfreunde verwenden";
+T[ "PluginAleatoireExplication" ] = " W\195\164hle pro Spalte mindestens zwei Tiere aus, wenn du zuf\195\164llige Tiere verwenden m\195\182chtest. Wenn du ausgew\195\164hlte Tiere nutzen m\195\182chtest, reicht ein beliebiges Tier pro Spalte.";
