@@ -3,7 +3,7 @@
 ## Raccourcis
 - ALT : déplacer l’icône
 - SHIFT + clic sur l’icône : options
-- /Alt icon : afficher/masquer l’icône
+- /Ani2 icon : afficher/masquer l’icône
 
 ## Fonctions principales (UI)
 - Sac de pièces : porte-monnaie
