@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1180</Id>
+  <Name>AnimalerieV2</Name>
+  <Version>1.07</Version>
+  <Author>Homeopatix</Author>
+ <Description>
+DESCRIPTION (Francais)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Animalerie est un petit plugin pour avoir un acces rapide a vos familiers et a leurs nourriture
+Mettre les familiers sur la premiere ligne
+Mettre la nourriture sur la deuxieme ligne
+Vous pouvez effacer un raccourci  avec la mollete de la souris sur le reccourci
+
+DESCRIPTION (English)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Animalerie is a small plugin to have quick access to your pets and their food
+Put pets on the first line
+Put food on the second line
+You can delete a shortcut with the mouse wheel on the shortcut
+
+DESCRIPTION (Deutsche)  
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Pet Shop ist ein kleines Plugin, mit dem Sie schnell auf Ihre Haustiere und deren Futter zugreifen konnen
+Setzen Sie Vertraute in die erste Zeile
+Setzen Sie Essen in die zweite Zeile
+Sie konnen eine Verknupfung mit dem Mausrad auf der Verknupfung loschen
+
+LIST OF ALL COMMANDS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+(French)
+/AnV2 show -- montre la fenetre
+(English)
+/AnV2 show - show the window
+(Deutsche)
+/AnV2 show - zeige das Fenster
+</Description>
+  <InfoUrl>http://www.lotrointerface.com/downloads/info1180</InfoUrl>
+  <DownloadUrl>http://www.lotrointerface.com/downloads/download1180</DownloadUrl>
+  <Descriptors>
+    <descriptor>Homeopatix\AnimalerieV2.plugin</descriptor>
+  </Descriptors>
+</PluginConfig>
