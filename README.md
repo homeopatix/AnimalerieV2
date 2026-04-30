@@ -2,17 +2,15 @@
 <img width="1536" height="1024" alt="homeo_plugins" src="https://github.com/user-attachments/assets/1b3f50fe-a4c1-4d38-9215-a1f839d7a76b" />
 
 
-# PlopIamConnected – LOTRO Plugin
+# AnimalerieV2 – LOTRO Plugin
 
 ![Lua](https://img.shields.io/badge/Lua-Plugin-blue)
 ![LOTRO](https://img.shields.io/badge/Game-LOTRO-darkgreen)
 ![Status](https://img.shields.io/badge/status-active-success)
 ![License](https://img.shields.io/badge/license-Custom-lightgrey)
 
-AltHolic est un plugin **Lua pour The Lord of the Rings Online (LOTRO)**  
-PlopIamConnected est un petit plugin pour avoir une vue agrandie de vos amis quand il se connecte
-Entrer le nom des amis que vous souhaiter suivre qui se trouve dans votre liste d'ami
-ou ajouter le nom d'un ami de guilde
+AnimalerieV2 est un plugin **Lua pour The Lord of the Rings Online (LOTRO)**  
+AnimalerieV2 est un petit plugin pour avoir une vue rapide sur vos familier et sur la nourriture é leur donné
 
 ---
 
@@ -26,7 +24,7 @@ ou ajouter le nom d'un ami de guilde
 
 | Commande / Touche | Action | 
 |--------|------------------|
-| Afficher / Masquer l'icône | `/Alt icon` |
+| Afficher / Masquer l'icône | `/AnV2 icon` |
 | Déplacer l’icône | `ALT` |
 | Ouvrir les options | `SHIFT + clic sur l’icône` |
 
@@ -34,11 +32,15 @@ ou ajouter le nom d'un ami de guilde
 
 | Commande | Description | 
 |--------|------------------|
-| /Plop show	| Montre la fenêtre principale |
-| /Plop hide	| Cache la fenêtre principale |
-| /Plop list	| BAffiche la liste de vos amis |
-| /Plop clearall	| Supprime tous les amis |
-| /Plop clear naomdelami	| Supprime l'ami défini |
+| /AnV2 show	| Montre la fenêtre principale |
+| /AnV2 hide	| Cache la fenêtre principale |
+| /AnV2 show    | montre la fenetre |
+| /AnV2 hide    | cache la fenetre |
+| /AnV2 clear   | effacer toutes les entrées |
+| /AnV2 esc     | activer ou desactiver la femeture de la fenetre avec la touche escape |
+| /AnV2 default | rempli automatiquement la fenètre avec tous les familiers de base |
+| /AnV2 lock    | pour verrouiller ou deverrouiller les icones |
+| /AnV2 toggle  | affiche ou cache la fenetre |
 
 ------------------------------------------------------------------------
 
