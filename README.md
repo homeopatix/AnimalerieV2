@@ -48,13 +48,13 @@ AnimalerieV2 est un petit plugin pour avoir une vue rapide sur vos familier et s
 
 1.  Télécharger le ZIP depuis GitHub ou LOTROInterface.
 2.  Extraire le dossier.
-3.  Copier le dossier `PlopIamConnected` dans :
+3.  Copier le dossier `Animaleriev2` dans :
 
     Documents\The Lord of the Rings Online\Plugins\Homeopatix
 
 4.  En jeu :
     
-    /plugins load plopiamconnected
+    /plugins load animaleriev2
 
 ------------------------------------------------------------------------
 
