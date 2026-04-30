@@ -10,7 +10,7 @@
 ![License](https://img.shields.io/badge/license-Custom-lightgrey)
 
 AnimalerieV2 est un plugin **Lua pour The Lord of the Rings Online (LOTRO)**  
-AnimalerieV2 est un petit plugin pour avoir une vue rapide sur vos familier et sur la nourriture é leur donné
+AnimalerieV2 est un petit plugin pour avoir une vue rapide sur vos familier et sur la nourriture à leur donné
 
 ---
 
